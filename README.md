@@ -1,65 +1,154 @@
-# My Portfolio Website - Overview 🚀
+# 🚀 Ved Kumar – Developer Portfolio
 
-This repository contains the open-source version of my personal portfolio website.  
-Feel free to explore the code and use it for learning and inspiration.
+Welcome to the open-source version of my personal portfolio website.
 
----
+This portfolio showcases my experience, projects, technical skills, and journey as a Software Engineer with a focus on Backend Development, Systems Engineering, Full-Stack Development, and Data Analytics.
 
-## ⚠️ Usage Notice
+## 🌐 Live Demo
 
-This project is shared for learning purposes only.
-
-Please do NOT:
-- Clone or replicate the full website or design
-- Repost it with minor content changes
-- Use this project for commercial/client work
-- Create tutorials or content using this exact project
-
-If you use parts of the code, you must provide proper credit linking back to the original repository.
-
-Build your own version — don’t just copy.
-
-— Moncy Yohannan
+🔗 **Portfolio:** https://portfolio-mlxs-git-main-ved-kumars-projects-b373e65a.vercel.app/
 
 ---
 
-## 🛠️ Instructions
+## 📸 Preview
 
-I have modified the GSAP Club plugins using trial versions.  
-⚠️ Note: Trial plugins cannot be used for production or hosting.
+![Portfolio Preview](image(65).png)
 
-For official GSAP Club plugins, refer here:  
+---
+
+## ✨ Features
+
+- Modern and responsive UI
+- Smooth GSAP animations
+- Interactive 3D avatar using Three.js
+- Project showcase
+- Experience timeline
+- Contact section
+- Fully responsive design
+- Optimized performance
+
+---
+
+## 🛠️ Tech Stack
+
+- React
+- TypeScript
+- GSAP
+- Three.js
+- WebGL
+- HTML5
+- CSS3
+- JavaScript
+- Vite
+
+---
+
+## 📂 Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/Vedkumar07/<repository-name>.git
+```
+
+Navigate into the project
+
+```bash
+cd <repository-name>
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run the development server
+
+```bash
+npm run dev
+```
+
+Build for production
+
+```bash
+npm run build
+```
+
+---
+
+## 📌 About
+
+This portfolio highlights my work in:
+
+- Backend Development
+- REST API Development
+- Full-Stack Applications
+- System Design
+- Data Analytics
+- Cloud Technologies
+- Performance Optimization
+
+Featured projects include:
+
+- Real-Time Messaging Platform
+- AutoPulse – Automotive Data Analytics Platform
+- Hotel Booking Demand Analysis
+
+---
+
+## ⚠️ Usage
+
+This project is shared for learning and inspiration.
+
+Please **do not**:
+
+- Copy the complete design
+- Re-upload the project with minor modifications
+- Use it commercially without permission
+- Create tutorials using this repository as your own work
+
+If you use parts of this project, please provide proper attribution by linking back to this repository.
+
+I encourage you to build your own unique portfolio.
+
+---
+
+## 🎨 Assets
+
+Some assets included in this repository are available for learning purposes.
+
+Please note:
+
+- Some GSAP Club plugins used during development are trial versions and **cannot be used in production**.
+- Some 3D assets may have their own licenses.
+- Replace any restricted assets before deploying your own version.
+
+For official GSAP Club plugins:
+
 https://gsap.com/docs/v3/Installation/
 
 ---
 
-## ⚙️ Tech Stack
+## 🤝 Connect With Me
 
-React • TypeScript • GSAP • Three.js • WebGL • HTML • CSS • JavaScript
-
----
-
-## 🎨 Assets Usage
-
-Some 3D assets included in this repository are free to use for learning purposes.
-
-However:
-
-- The original 3D avatar used on my live portfolio is NOT included in this repository
-- That avatar is a custom asset created over ~1 month
-- It is not open source and not available for reuse
-
-Any usage, extraction, or redistribution of that avatar from my live website is strictly prohibited.
+- 📧 Email: **vedkumar.tech@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/ved-kumar-5375a425a
+- 💻 GitHub: https://github.com/Vedkumar07
+- ✖ X: https://x.com/Ved58897471
 
 ---
 
-![Protfolio-Preview](https://github.com/user-attachments/assets/3c4557e7-6392-4928-b8a9-7b2476ef4edd)
+## ⭐ Support
+
+If you found this project useful, consider giving it a ⭐ on GitHub.
+
+Feedback, suggestions, and contributions are always welcome.
 
 ---
 
 ## 📄 License
 
-This project is licensed under the Personal Portfolio License (PPL) v1.0.
+This project is licensed under the **Personal Portfolio License (PPL) v1.0**.
 
-See the LICENSE file for full details
-
+See the LICENSE file for more information.
