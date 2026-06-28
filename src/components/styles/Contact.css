@@ -12,6 +12,8 @@
 .contact-flex {
   display: flex;
   justify-content: space-between;
+  gap: 40px;
+  flex-wrap: wrap;
 }
 .contact-flex h4 {
   font-weight: 500;
@@ -21,6 +23,8 @@
 .contact-box {
   display: flex;
   flex-direction: column;
+  flex: 1 1 220px;
+  min-width: 220px;
 }
 .contact-flex p {
   margin-top: 10px;
@@ -29,6 +33,8 @@
 a.contact-social {
   font-size: 25px;
   border-bottom: 1px solid #ccc;
+  padding-bottom: 8px;
+  margin-bottom: 10px;
 }
 .contact-box h2 {
   font-weight: 400;
@@ -45,6 +51,7 @@ a.contact-social {
   display: flex;
   gap: 10px;
   opacity: 0.5;
+  align-items: center;
 }
 @media only screen and (max-width: 1600px) {
   .contact-section h3 {

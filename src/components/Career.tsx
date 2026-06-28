@@ -15,43 +15,44 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Software Engineer Intern</h4>
+                <h5>QuantLab</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>July 2025 – Sep 2025</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Built scalable backend integrations for high-frequency financial
+              platforms, developed REST APIs and data-processing services, and
+              optimized Redis-backed workflows for faster user-facing
+              responsiveness.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Freelance Software Engineer</h4>
+                <h5>Sigma Crane</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>May 2025 – June 2025</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Delivered backend-driven ERP modules with modular service
+              architecture, improved maintainability, and developed validation
+              layers for enterprise workflows.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Open Source Contributor</h4>
+                <h5>react-big-schedule</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>June 2025</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Contributed production-ready code to improve responsiveness,
+              resolve UI-state synchronization issues, and enhance modular
+              architecture for predictable state transitions.
             </p>
           </div>
         </div>

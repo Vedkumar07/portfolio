@@ -6,9 +6,11 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          I am Ved Kumar, a backend and systems engineer with experience
+          building scalable integrations, REST APIs, and data-driven platforms.
+          I specialize in Python, JavaScript, and database systems, with a
+          focus on Redis caching, PostgreSQL, MongoDB, and performance
+          optimization for high-throughput applications.
         </p>
       </div>
     </div>
