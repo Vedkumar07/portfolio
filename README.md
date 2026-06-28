@@ -6,16 +6,9 @@ This portfolio showcases my experience, projects, technical skills, and journey 
 
 ## 🌐 Live Demo
 
-🔗 **Portfolio:** https://portfolio-mlxs-git-main-ved-kumars-projects-b373e65a.vercel.app/
+🔗 **Portfolio:** https://portfolio-mlxs.vercel.app/
 
 ---
-
-## 📸 Preview
-
-![Portfolio Preview](image(65).png)
-
----
-
 ## ✨ Features
 
 - Modern and responsive UI
